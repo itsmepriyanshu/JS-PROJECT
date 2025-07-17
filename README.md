@@ -22,7 +22,7 @@ It supports basic arithmetic operations and has an attractive UI using a **neumo
 
 1. Clone the repository:
    
-   git clone https://github.com/itsmepriyanshu/js-calculator.git
+   git clone https://https://github.com/itsmepriyanshu/JS-PROJECT
    
 3. Navigate into the folder:
 
